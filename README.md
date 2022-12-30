@@ -21,7 +21,7 @@ const stebs = {
     },
     technical: {
         technologies: {
-            frontEnd: {
+            frontEnd: {,
                 Vue.js: ['vue.js'],
                 JSF/PrimeFaces: ['xhtml'],
                 SystemOut: ['SystemOut Studio'],
