@@ -30,7 +30,7 @@ const stebs = {
                 CSS: ['sass', 'styled-components', 'Bootstrap'],
             },
             backEnd: {
-                Java: ['Maven', 'Spring', 'Hibernate', 'JPA', 'Criteria']
+                Java: ['Maven', 'Spring', 'Hibernate', 'JPA', 'Criteria'],
                 C#: ['Wforms', 'ASP.Net', 'Visual Studio']
   
             },
