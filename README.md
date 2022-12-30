@@ -16,10 +16,8 @@ const stebs = {
         fullName: 'Fabricio Carvalho',
         birthDate: '1994-04-05',
         pronouns: 'her',
-        interests: ['music', 'games', 'language learning', 'anime', books, movies, family],
-        motivation: [
-            'Making life easier and smarter through tech',
-        ],
+        interests: ['music', 'games', 'language learning', 'anime', 'books', 'movies', 'family'],
+        motivation: ['Making life easier and smarter through tech'],
     },
     technical: {
         technologies: {
